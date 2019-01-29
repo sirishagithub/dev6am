@@ -1,6 +1,7 @@
 class demo
 {
-
+   void add()
+   ----------
    void withdraw()
    --------
    void deposit()
