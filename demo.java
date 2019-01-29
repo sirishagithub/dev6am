@@ -1,5 +1,10 @@
 class demo
 {
+
+   void sub ()
+--------
+
+
    void add()
    ----------
    void withdraw()
